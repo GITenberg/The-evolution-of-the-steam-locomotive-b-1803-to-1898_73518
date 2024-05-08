@@ -1,11 +1,16 @@
 _repo: The-evolution-of-the-steam-locomotive-b-1803-to-1898_73518
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73518-h/images/cover.jpg
 creator:
   author:
     agent_name: Nokes, George Augustus
     gutenberg_agent_id: '57104'
     url: http://www.gutenberg.org/2009/agents/57104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73518#The-evolution-of-the-steam-locomotive-b-1803-to-1898
 gutenberg_issued: '2024-05-02'
 gutenberg_type: Text
 identifiers:
